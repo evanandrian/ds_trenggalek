@@ -8,6 +8,6 @@ done
 git pull
 "C:\ds_trenggalek\DesktopService.exe" $1 &
 
-start chrome https://transmedic.co.id:2222/app/Login
+# start chrome https://transmedic.co.id:2222/app/Login
 
 
